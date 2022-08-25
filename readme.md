@@ -1,5 +1,6 @@
 # Docker image of Puppeteer
 
+Build puppeteer image with extra fonts.
 
 ## Build
 
